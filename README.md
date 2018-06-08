@@ -1,7 +1,7 @@
 # VK-Another-Bot
-# Создан Яном Дудицким из вконтакта.
-# Профиль на гитхабе: https://github.com/G2N1337 
-# Creator: vk.com/yanduditsky
+ Создан Яном Дудицким из вконтакта.
+ Профиль на гитхабе: https://github.com/G2N1337 
+ Creator: vk.com/yanduditsky 
 
 
 1. Установить среду разработки >= Python 3.6 (https://www.python.org/)
